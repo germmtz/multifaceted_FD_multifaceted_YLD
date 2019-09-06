@@ -1,7 +1,5 @@
 # multifaceted_FD_multifaceted_YLD
-Contains data for the study "Multifaceted functional diversity for multifaceted crop yield: towards ecological assembly rules for varietal mixtures"
-
-# multifacted_FD_multifacted_YLD
+Data for the study "Multifaceted functional diversity for multifaceted crop yield: towards ecological assembly rules for varietal mixtures"
 
 Two files are available:
 
